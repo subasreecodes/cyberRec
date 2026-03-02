@@ -12,3 +12,5 @@ Python, Pandas, NumPy, Streamlit, Plotly Express, Scikit-Learn(Random Forest and
 
 Observation:
 During development it was observed that high entropy in incident data limited standalone model accuract to approximately 43%. By pivoting to a prescriptive strategy engine, the system provides historically acurate defense recommendations.
+
+Deployed on Streamlit Cloud: https://cyberec.streamlit.app
